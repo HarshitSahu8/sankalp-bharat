@@ -1,0 +1,68 @@
+[
+  {
+    "id": "bill-nari-shakti",
+    "billName": "Nari Shakti Vandan Adhiniyam (106th Constitutional Amendment)",
+    "housePassed": "Lok Sabha & Rajya Sabha (Near Unanimous)",
+    "year": "2023",
+    "policyId": "nep-2020",
+    "visionaryId": "naidu",
+    "summary": "Reserves 33% of seats in Lok Sabha and State Legislative Assemblies for women, ensuring direct political decision-making power for female leaders.",
+    "impactLevel": "National & State Legislative Assemblies",
+    "whatItAchieves": "Ensures at least 181 female MPs in Parliament and empowers women in policy drafting across every state."
+  },
+  {
+    "id": "bill-dpdp",
+    "billName": "Digital Personal Data Protection (DPDP) Act",
+    "housePassed": "Lok Sabha & Rajya Sabha",
+    "year": "2023",
+    "policyId": "dpi",
+    "visionaryId": "ambedkar",
+    "summary": "Establishes a comprehensive legal framework for digital privacy, consent architecture, data fiduciary obligations, and heavy penalties for unauthorized data breaches.",
+    "impactLevel": "National (1.4 Billion Citizens & Tech Ecosystem)",
+    "whatItAchieves": "Protects citizen digital privacy while creating trust in digital public infrastructure and tech businesses."
+  },
+  {
+    "id": "bill-green-energy",
+    "billName": "Energy Conservation (Amendment) Act & Green Hydrogen Mission",
+    "housePassed": "Lok Sabha & Rajya Sabha",
+    "year": "2022-2023",
+    "policyId": "panchamrit",
+    "visionaryId": "gandhi",
+    "summary": "Mandates clean energy consumption norms for heavy industries, introduces Carbon Credit Trading Markets, and promotes green hydrogen substitution.",
+    "impactLevel": "National Industry & Energy Sector",
+    "whatItAchieves": "Accelerates industrial decarbonization and positions India as a exporter of Green Hydrogen."
+  },
+  {
+    "id": "bill-telecom",
+    "billName": "The Telecommunications Act 2023",
+    "housePassed": "Lok Sabha & Rajya Sabha",
+    "year": "2023",
+    "policyId": "dpi",
+    "visionaryId": "kalam",
+    "summary": "Replaces 138-year-old colonial telegraph laws with a modern, spectrum-allocation and cybersecurity framework for 5G/6G networks and satellite internet.",
+    "impactLevel": "National Connectivity & Rural Broadband",
+    "whatItAchieves": "Simplifies telecom infrastructure rollout and expands fast internet to remote border villages."
+  },
+  {
+    "id": "bill-criminal-code",
+    "billName": "Bharatiya Nyaya Sanhita (BNS) & Criminal Law Reforms",
+    "housePassed": "Lok Sabha & Rajya Sabha",
+    "year": "2023",
+    "policyId": "viksit-bharat",
+    "visionaryId": "patel",
+    "summary": "Replaces colonial Indian Penal Code (1860) with citizen-centric laws prioritizing justice over punishment, digital evidence, and mandatory forensic investigation.",
+    "impactLevel": "Judiciary & Law Enforcement Nationwide",
+    "whatItAchieves": "Speeds up trial timelines, introduces community service for minor offenses, and digitizes trial proceedings."
+  },
+  {
+    "id": "bill-anrf",
+    "billName": "Anusandhan National Research Foundation (ANRF) Act",
+    "housePassed": "Lok Sabha & Rajya Sabha",
+    "year": "2023",
+    "policyId": "viksit-bharat",
+    "visionaryId": "bhagatsingh",
+    "summary": "Allocates ₹50,000 Crore over 5 years to seed, grow, and promote high-impact scientific research and university labs across India.",
+    "impactLevel": "Universities, R&D Labs & DeepTech Startups",
+    "whatItAchieves": "Bridges academic research with industry innovation to build homegrown patents and deeptech breakthroughs."
+  }
+]

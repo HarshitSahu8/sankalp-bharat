@@ -1,0 +1,86 @@
+[
+  {
+    "id": "gujarat",
+    "stateName": "Gujarat",
+    "capital": "Gandhinagar",
+    "primaryFocus": "Renewable Energy & Maritime Logistics",
+    "flagshipProjects": [
+      "Khavda Renewable Energy Park (30 GW World's Largest Solar/Wind Park)",
+      "Dholera Special Investment Region (Greenfield Smart City)",
+      "GIFT City (International Financial Services Centre)"
+    ],
+    "localFreedomConnection": "Birthplace of Mahatma Gandhi & Sardar Patel; pioneer of cooperative agriculture (Amul)."
+  },
+  {
+    "id": "tamilnadu",
+    "stateName": "Tamil Nadu",
+    "capital": "Chennai",
+    "primaryFocus": "Electronics Manufacturing, EV Hub & Social Development",
+    "flagshipProjects": [
+      "Sriperumbudur High-Tech Manufacturing & iPhone Production Hub",
+      "Hosur Electric Vehicle Cluster",
+      "Pudhumai Penn Scheme (Higher education stipends for girl students)"
+    ],
+    "localFreedomConnection": "Legacy of Subramania Bharati (Poet of Freedom) & V.O. Chidambaram Pillai (Swadeshi Steam Navigation)."
+  },
+  {
+    "id": "uttarpradesh",
+    "stateName": "Uttar Pradesh",
+    "capital": "Lucknow",
+    "primaryFocus": "Expressway Network, ODOP & Defense Corridor",
+    "flagshipProjects": [
+      "One District One Product (ODOP) Artisanal Micro-Exports",
+      "UP Defense Industrial Corridor (Jhansi, Kanpur, Lucknow)",
+      "Ganga Expressway & Jewar International Airport"
+    ],
+    "localFreedomConnection": "Heartland of the 1857 Freedom Struggle (Mangal Pandey, Rani Laxmi Bai, Chandrashekhar Azad)."
+  },
+  {
+    "id": "maharashtra",
+    "stateName": "Maharashtra",
+    "capital": "Mumbai",
+    "primaryFocus": "Financial Capital, Logistics & Infrastructure",
+    "flagshipProjects": [
+      "Atal Setu (Mumbai Trans Harbour Link - MTHL)",
+      "Vadhavan Port (Mega Deep draft International Port)",
+      "Samruddhi Mahamarg Highway Corridor"
+    ],
+    "localFreedomConnection": "Fortress of Chhatrapati Shivaji Maharaj, Lokmanya Tilak, & Jyotirao-Savitribai Phule."
+  },
+  {
+    "id": "kerala",
+    "stateName": "Kerala",
+    "capital": "Thiruvananthapuram",
+    "primaryFocus": "100% Digital Literacy, Eco-Tourism & Universal Healthcare",
+    "flagshipProjects": [
+      "K-FON (Kerala Fibre Optic Network - Internet as a Basic Right)",
+      "Vizhinjam International Transshipment Deepwater Seaport",
+      "Clean Energy Water Taxi & Solar Ferries"
+    ],
+    "localFreedomConnection": "Vaikom Satyagraha for civil rights & Sri Narayana Guru's motto 'One Caste, One Religion, One God for Man'."
+  },
+  {
+    "id": "karnataka",
+    "stateName": "Karnataka",
+    "capital": "Bengaluru",
+    "primaryFocus": "DeepTech R&D, Startups, Aerospace & Biotech",
+    "flagshipProjects": [
+      "Bengaluru Tech Summit & DeepTech Innovation Park",
+      "HAL & ISRO Aerospace Manufacturing Cluster",
+      "Beyond Bengaluru Regional Startup Hubs (Hubballi, Mangaluru)"
+    ],
+    "localFreedomConnection": "Kittur Chennamma & Sangolli Rayanna's fierce resistance to foreign rule."
+  },
+  {
+    "id": "assam",
+    "stateName": "Assam & North East",
+    "capital": "Dispur",
+    "primaryFocus": "Act East Gateway, Green Energy & Bamboo Bio-Refining",
+    "flagshipProjects": [
+      "Numaligarh Bio-Refinery (Bamboo to Bio-Ethanol)",
+      "Tata Semiconductor Assembly & Test Plant (Jagiroad)",
+      "Majuli Eco-Island Heritage & Waterways Corridor"
+    ],
+    "localFreedomConnection": "Lachit Borphukan's heroism & Kanaklata Barua's Quit India sacrifice."
+  }
+]

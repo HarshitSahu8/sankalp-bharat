@@ -1,0 +1,122 @@
+[
+  {
+    "id": "duty-waste-segregation",
+    "persona": "citizen",
+    "category": "environment",
+    "title": "100% Source Waste Segregation at Home",
+    "description": "Separate wet organic waste from dry recyclable plastic, glass, and electronic waste before handing over to municipal sanitation workers.",
+    "freedomFighterConnection": "Mahatma Gandhi's vision of Swachhata (Cleanliness as a personal & civic duty).",
+    "impactScore": 85,
+    "frequency": "Daily",
+    "difficulty": "Easy",
+    "icon": "♻️"
+  },
+  {
+    "id": "duty-vocal-for-local",
+    "persona": "citizen",
+    "category": "economy",
+    "title": "Buy Local Artisans & Swadeshi Products First",
+    "description": "Choose products made by Indian artisans, handloom weavers, local farmers, and MSMEs for at least 50% of monthly household purchases.",
+    "freedomFighterConnection": "Swadeshi Movement championed by Lokmanya Tilak & Mahatma Gandhi.",
+    "impactScore": 90,
+    "frequency": "Weekly",
+    "difficulty": "Easy",
+    "icon": "🛍️"
+  },
+  {
+    "id": "duty-water-harvesting",
+    "persona": "citizen",
+    "category": "environment",
+    "title": "Water Conservation & Rainwater Harvesting",
+    "description": "Fix leaking household taps, install low-flow aerators, and set up simple rooftop rainwater recharge pipes.",
+    "freedomFighterConnection": "Reclaiming natural resources for collective community survival.",
+    "impactScore": 92,
+    "frequency": "Daily",
+    "difficulty": "Medium",
+    "icon": "💧"
+  },
+  {
+    "id": "duty-digital-mentor",
+    "persona": "youth",
+    "category": "society",
+    "title": "Digital Literacy Mentorship (Teach 5 Elders/Vendors)",
+    "description": "Help local street vendors set up UPI QR codes, teach grandparents how to access DigiLocker or Ayushman Bharat IDs safely.",
+    "freedomFighterConnection": "Shaheed Bhagat Singh's call to youth for active social awakening and education.",
+    "impactScore": 88,
+    "frequency": "Weekly",
+    "difficulty": "Easy",
+    "icon": "📲"
+  },
+  {
+    "id": "duty-open-source-innovation",
+    "persona": "youth",
+    "category": "economy",
+    "title": "Build Open Source & Civic Tech Solutions",
+    "description": "Participate in hackathons, contribute code to open-source public tools, or solve local municipal problems using data & AI.",
+    "freedomFighterConnection": "Dr. A.P.J. Abdul Kalam's vision of young technological pioneers driving national progress.",
+    "impactScore": 95,
+    "frequency": "Monthly",
+    "difficulty": "Proactive",
+    "icon": "💻"
+  },
+  {
+    "id": "duty-esg-csr-local",
+    "persona": "corporate",
+    "category": "economy",
+    "title": "CSR Alignment with Aspirational Districts",
+    "description": "Direct Corporate Social Responsibility (CSR) funds towards skill centers, solar water pumps, and maternal health in underdeveloped districts.",
+    "freedomFighterConnection": "Mahatma Gandhi's Trusteeship model for business leaders.",
+    "impactScore": 98,
+    "frequency": "Monthly",
+    "difficulty": "Proactive",
+    "icon": "🏢"
+  },
+  {
+    "id": "duty-zero-single-use-plastic",
+    "persona": "corporate",
+    "category": "environment",
+    "title": "Eliminate Single-Use Plastic in Supply Chain",
+    "description": "Replace non-biodegradable packaging materials with hemp, jute, or paper alternatives across all warehouse shipping.",
+    "freedomFighterConnection": "Protecting the sacred land and environment of the motherland.",
+    "impactScore": 92,
+    "frequency": "Daily",
+    "difficulty": "Medium",
+    "icon": "🌱"
+  },
+  {
+    "id": "duty-local-vocational-upskilling",
+    "persona": "corporate",
+    "category": "society",
+    "title": "Apprenticeship & Paid Internships for Tier 2/3 Youth",
+    "description": "Provide hands-on vocational apprenticeships and fair stipends to students from rural technical institutes and ITIs.",
+    "freedomFighterConnection": "Netaji Subhash Chandra Bose's drive for national industrial discipline & youth participation.",
+    "impactScore": 94,
+    "frequency": "Monthly",
+    "difficulty": "Medium",
+    "icon": "🛠️"
+  },
+  {
+    "id": "duty-community-blood-health",
+    "persona": "community",
+    "category": "health",
+    "title": "Organize Monthly Community Health & Blood Donation Drives",
+    "description": "Set up free preventive health screening and organ/blood donation camps in residential neighborhoods or panchayats.",
+    "freedomFighterConnection": "Swami Vivekananda's principle: 'Service to man is service to God'.",
+    "impactScore": 90,
+    "frequency": "Monthly",
+    "difficulty": "Medium",
+    "icon": "🩸"
+  },
+  {
+    "id": "duty-tree-plantation-gardens",
+    "persona": "community",
+    "category": "environment",
+    "title": "Urban Forests (Miyawaki) & Community Kitchen Gardens",
+    "description": "Transform vacant community plots into dense native plant micro-forests and organic vegetable patches.",
+    "freedomFighterConnection": "Gram Swaraj and environmental harmony.",
+    "impactScore": 91,
+    "frequency": "Weekly",
+    "difficulty": "Proactive",
+    "icon": "🌳"
+  }
+]
