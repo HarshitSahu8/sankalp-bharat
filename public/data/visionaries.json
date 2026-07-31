@@ -1,0 +1,90 @@
+[
+  {
+    "id": "gandhi",
+    "name": "Mahatma Gandhi",
+    "title": "Father of the Nation",
+    "period": "1869 - 1948",
+    "avatar": "🕊️",
+    "quote": "The future depends on what you do today. Gram Swaraj is the true essence of Indian independence.",
+    "coreValues": ["Gram Swaraj", "Swadeshi (Self-Reliance)", "Ahimsa & Peace", "Civic Cleanliness", "Trusteeship"],
+    "historicalVision": "Empower rural villages as self-sufficient economic units, uphold cleanliness as godliness, and promote local craftsmanship.",
+    "modernAlignment": "Swachh Bharat Abhiyan, PM-Kisan, Vocal for Local, Khadi India, Rural Digitalization."
+  },
+  {
+    "id": "ambedkar",
+    "name": "Dr. B.R. Ambedkar",
+    "title": "Architect of the Indian Constitution",
+    "period": "1891 - 1956",
+    "avatar": "⚖️",
+    "quote": "Educate, Agitate, Organize. Cultivation of mind should be the ultimate aim of human existence.",
+    "coreValues": ["Constitutional Morality", "Social Equality", "Universal Education", "Legal Empowerment", "Fraternity"],
+    "historicalVision": "A casteless, egalitarian society rooted in justice, rule of law, equal opportunities, and constitutional rights.",
+    "modernAlignment": "Nari Shakti Vandan Adhiniyam, Digital Literacy, Stand-Up India, Samagra Shiksha Abhiyan, Reservation in Governance."
+  },
+  {
+    "id": "bose",
+    "name": "Netaji Subhash Chandra Bose",
+    "title": "Leader of Azad Hind Fauj",
+    "period": "1897 - 1945",
+    "avatar": "⚔️",
+    "quote": "Give me blood, and I shall give you freedom! One individual may die for an idea, but that idea will incarnate itself in a thousand lives.",
+    "coreValues": ["Courage & Leadership", "Industrialization", "National Pride", "Unity in Diversity", "Scientific Planning"],
+    "historicalVision": "Rapid industrial development, disciplined national service, military self-sufficiency, and unified national spirit.",
+    "modernAlignment": "Make in India, Defense Indigenization, PM Gati Shakti Infrastructure, National Youth Policy."
+  },
+  {
+    "id": "bhagatsingh",
+    "name": "Shaheed Bhagat Singh",
+    "title": "Icon of Youth Revolution",
+    "period": "1907 - 1931",
+    "avatar": "🔥",
+    "quote": "They may kill me, but they cannot kill my ideas. They can crush my body, but they will not be able to crush my spirit.",
+    "coreValues": ["Youth Awakening", "Scientific Temper", "Social Justice", "Anti-Exploitation", "Selfless Sacrifice"],
+    "historicalVision": "A society free from economic exploitation, led by conscious, educated, and questioning youth fighting for universal welfare.",
+    "modernAlignment": "Atmanirbhar Bharat Startups, Atal Innovation Mission, Student R&D Grants, Youth Civic Engagement."
+  },
+  {
+    "id": "patel",
+    "name": "Sardar Vallabhbhai Patel",
+    "title": "Iron Man of India",
+    "period": "1875 - 1950",
+    "avatar": "🛡️",
+    "quote": "Manpower without unity is not a strength unless it is harmonized and united properly, then it becomes a spiritual power.",
+    "coreValues": ["National Integration", "Administrative Rigor", "Cooperative Movement", "Territorial Integrity"],
+    "historicalVision": "A strong, unified India bound by administrative excellence, integrated states, and robust farmer cooperatives.",
+    "modernAlignment": "Ek Bharat Shreshtha Bharat, Amul/Cooperative Reforms, Civil Services Modernization (Mission Karmayogi), Statue of Unity Complex."
+  },
+  {
+    "id": "kalam",
+    "name": "Dr. A.P.J. Abdul Kalam",
+    "title": "People's President & Missile Man",
+    "period": "1931 - 2015",
+    "avatar": "🚀",
+    "quote": "Dream is not that which you see while sleeping, it is something that does not let you sleep. Empowered youth change the world.",
+    "coreValues": ["Scientific Innovation", "PURA (Urban Amenities in Rural Areas)", "Youth Mentorship", "Space & Energy Leadership"],
+    "historicalVision": "Transform India into a Developed Nation (Vision 2020) driven by knowledge, technology, value-based education, and space-age innovation.",
+    "modernAlignment": "Viksit Bharat @2047, ISRO Gaganyaan & Chandrayaan, National DeepTech Startup Policy, NEP 2020 Skill Labs."
+  },
+  {
+    "id": "naidu",
+    "name": "Sarojini Naidu",
+    "title": "Nightingale of India",
+    "period": "1879 - 1949",
+    "avatar": "🌺",
+    "quote": "A new sun has risen above India’s horizon. Women are not merely partners in freedom, but leaders of destiny.",
+    "coreValues": ["Women Empowerment", "Cultural Synthesis", "Civic Duty", "Poetic Expression"],
+    "historicalVision": "Full equal partnership of women in political leadership, education, and national reform.",
+    "modernAlignment": "Women-led Development (G20 Focus), Lakhpati Didi Scheme, Self Help Group (SHG) Bank Linkage, Mudra Loans for Female Entrepreneurs."
+  },
+  {
+    "id": "vivekananda",
+    "name": "Swami Vivekananda",
+    "title": "Spiritual Renaissance Leader",
+    "period": "1863 - 1902",
+    "avatar": "⚡",
+    "quote": "Arise, awake, and stop not till the goal is reached. All power is within you; you can do anything and everything.",
+    "coreValues": ["Self-Confidence", "Service to Humanity (Daridra Narayan)", "Universal Brotherhood", "Physical & Mental Strength"],
+    "historicalVision": "Regeneration of India through character-building education, uplifting the downtrodden, and global intellectual pride.",
+    "modernAlignment": "National Youth Day Initiatives, Fit India Movement, Universal Health Care (Ayushman Bharat), Skill India."
+  }
+]

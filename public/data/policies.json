@@ -1,0 +1,92 @@
+[
+  {
+    "id": "viksit-bharat",
+    "title": "Viksit Bharat @ 2047",
+    "tagline": "Transforming India into a Developed Nation by 100th Independence Year",
+    "pillar": "Economic Growth & Human Capital",
+    "visionaryId": "kalam",
+    "description": "Comprehensive vision to elevate India's economy to $30+ Trillion, achieve high human development indicators, modern infrastructure, and global innovation leadership.",
+    "keyTargets": [
+      "$30 Trillion Economy by 2047",
+      "100% Literacy and World-Class Skill Development",
+      "Zero Poverty & Equitable Wealth Distribution",
+      "Global Hub for R&D, AI, and Clean Energy"
+    ],
+    "statusProgress": "Active National Masterplan"
+  },
+  {
+    "id": "panchamrit",
+    "title": "Panchamrit & Net Zero 2070",
+    "tagline": "India's 5-Point Climate Pledge to the Planet",
+    "pillar": "Green Transition & Sustainability",
+    "visionaryId": "gandhi",
+    "description": "India's historic climate commitments: 500GW non-fossil energy capacity by 2030, 50% renewable energy reliance, 1 Billion Ton reduction in carbon emissions, and Net Zero emissions by 2070.",
+    "keyTargets": [
+      "500 GW Non-Fossil Energy Capacity by 2030",
+      "50% Electricity from Renewable Sources by 2030",
+      "National Green Hydrogen Mission (5 MMT/yr)",
+      "Net Zero Carbon Emissions by 2070"
+    ],
+    "statusProgress": "180+ GW Solar/Wind already installed"
+  },
+  {
+    "id": "dpi",
+    "title": "Digital Public Infrastructure (DPI)",
+    "tagline": "India Stack: Aadhaar, UPI, DigiLocker, ONDC, & Ayushman Bharat Digital Mission",
+    "pillar": "Digital Empowerment & Financial Inclusion",
+    "visionaryId": "bhagatsingh",
+    "description": "Democratizing financial services, governance, health records, and e-commerce through open, interoperable, citizen-centric digital platforms.",
+    "keyTargets": [
+      "10+ Billion Monthly Instant Digital Transactions (UPI)",
+      "ONDC Open Commerce for Small Shopkeepers",
+      "ABHA Health ID for 500 Million Citizens",
+      "100% Paperless Government Services via DigiLocker"
+    ],
+    "statusProgress": "Global Model for Digital Inclusion"
+  },
+  {
+    "id": "nep-2020",
+    "title": "National Education Policy (NEP 2020)",
+    "tagline": "From Rote Learning to Experiential, Multilingual & Skill-Based Education",
+    "pillar": "Education & Youth Empowerment",
+    "visionaryId": "ambedkar",
+    "description": "Overhauling the education system with a 5+3+3+4 structure, mother tongue instruction in early years, early vocational coding, and multidisciplinary higher education.",
+    "keyTargets": [
+      "100% Gross Enrolment Ratio in Preschool to Secondary Education",
+      "50% Higher Education Enrolment by 2035",
+      "Vocational Education integrated from Grade 6",
+      "National Research Foundation (NRF) to boost R&D"
+    ],
+    "statusProgress": "Implementation in Progress Nationwide"
+  },
+  {
+    "id": "gati-shakti",
+    "title": "PM Gati Shakti Master Plan",
+    "tagline": "Multimodal Logistics Infrastructure & Connectivity",
+    "pillar": "Infrastructure & Logistics",
+    "visionaryId": "bose",
+    "description": "GIS-based integrated master plan mapping railways, expressways, ports, waterways, gas grids, and telecommunication networks to dramatically cut logistics costs.",
+    "keyTargets": [
+      "Reduce Logistics Cost from 14% to 8% of GDP",
+      "100% Electrification of Railway Network",
+      "National Highway Expansion by 25,000 km",
+      "Development of 100 PM Gati Shakti Cargo Terminals"
+    ],
+    "statusProgress": "16 Central Ministries Integrated on One Map"
+  },
+  {
+    "id": "swachh-jal",
+    "title": "Swachh Bharat & Jal Jeevan Mission",
+    "tagline": "Cleanliness, Sanitation & Har Ghar Jal (Tap Water for Every Rural Household)",
+    "pillar": "Civic Hygiene & Basic Amenities",
+    "visionaryId": "gandhi",
+    "description": "Transforming public health by achieving Open Defecation Free (ODF+) status across all villages and providing piped drinking water to every rural home.",
+    "keyTargets": [
+      "140+ Million Rural Households Provided Tap Water",
+      "100% Solid & Liquid Waste Management in Villages",
+      "Clean River Rejuvenation (Namami Gange)",
+      "Zero Manual Scavenging & Mechanized Cleaning"
+    ],
+    "statusProgress": "Over 78% Coverage Achieved"
+  }
+]
