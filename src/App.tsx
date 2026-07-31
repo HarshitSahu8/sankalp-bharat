@@ -25,12 +25,15 @@ export const App: React.FC = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
+        const baseUrl = import.meta.env.BASE_URL || './';
+        const cleanBase = baseUrl.endsWith('/') ? baseUrl : `${baseUrl}/`;
+
         const [vRes, pRes, bRes, dRes, sRes] = await Promise.all([
-          fetch('/data/visionaries.json'),
-          fetch('/data/policies.json'),
-          fetch('/data/bills.json'),
-          fetch('/data/duties.json'),
-          fetch('/data/states.json'),
+          fetch(`${cleanBase}data/visionaries.json`),
+          fetch(`${cleanBase}data/policies.json`),
+          fetch(`${cleanBase}data/bills.json`),
+          fetch(`${cleanBase}data/duties.json`),
+          fetch(`${cleanBase}data/states.json`),
         ]);
 
         const vData = await vRes.json();
